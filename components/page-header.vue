@@ -11,16 +11,16 @@
 </script>
 
 <style>
-    h1 {
-        font-family: 'Courier New', monospace;
-        font-size: 3rem;
-        font-weight: normal;
-    }
-
     #backlink {
         float: right;
         width: 3rem;
         height: 3rem;
         border-radius: 50%;
+    }
+    
+    @media only screen and (max-width: 420px) {
+        #backlink {
+            display: none;
+        }
     }
 </style>

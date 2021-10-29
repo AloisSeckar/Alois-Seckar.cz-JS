@@ -7,6 +7,7 @@
           <nuxt-link to="/sport" title="Sport">Sportovec</nuxt-link> / 
           <nuxt-link to="/politika" title="Politika">Politik</nuxt-link>
         </h2>
+        <div id="other"><nuxt-link to="/other" title="Ostatní">...a pár dalších věcí</nuxt-link></div>
         <div>
             <a href="mailto:seckar@svobodni.cz" title="Email"><img class="contact" src="~/assets/fa-envelope.webp"></a>
             <a href="https://www.facebook.com/alois.seckar" title="Facebook"><img class="contact" src="~/assets/fa-facebook.webp"></a>
@@ -39,15 +40,21 @@
   }
 
   #name {
+    color: white;
     font-family: kaushanScript;
     font-size: 4rem;
     font-weight: normal;
     transform: rotate(-5deg);
   }
   #desc {
+    color: white;
     font-family: 'Courier New', monospace;
     font-size: 1.5rem;
     font-weight: normal;
+  }
+  #other {
+    font-family: 'Courier New', monospace;
+    margin-bottom: 2rem;
   }
 
   @media only screen and (max-width: 400px) {

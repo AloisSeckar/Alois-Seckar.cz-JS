@@ -13,15 +13,16 @@
   }
 
   body {
-    background-color: #0a907e;
+    background-color: #199685;
     color: white;
+    font-family: Arial, sans-serif;
   }
 
   a:link, a:visited, a:active {
-    color: white;
+    color: #FFCC00;
     text-decoration: none;
   }
   a:hover {
-    color: goldenrod;
+    color: #f0f0f0;
   }
 </style>

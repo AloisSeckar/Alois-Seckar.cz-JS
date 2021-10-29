@@ -5,6 +5,40 @@
     padding: 0.75rem;
 }
 
+h1 {
+    color: #FFCC00;
+    font-family: 'Courier New', monospace;
+    font-size: 3rem;
+    font-weight: normal;
+}
+
+h2 {
+    color: #FFCC00;
+    font-family: 'Courier New', monospace;
+    font-size: 2rem;
+    font-weight: normal;
+}
+
 p {
     text-align: justify;
+}
+
+img.activities {
+    display: block;
+    margin: 0 auto;
+}
+img.logo {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+img.photo {
+    width: 400px;
+    height: auto;
+}
+
+@media only screen and (max-width: 420px) {
+    img.photo {
+        width: 90%;
+    }
 }
