@@ -1,8 +1,8 @@
 <template>
     <div id="profile">
         <img id="photo" src="~/assets/profile.webp">
-        <h1 id="name">Alois Sečkár</h1>
-        <h2 id="desc">
+        <h1 id="name" class="borderless">Alois Sečkár</h1>
+        <h2 id="desc" class="borderless">
           <nuxt-link to="/programovani" title="Programování">Programátor</nuxt-link> / 
           <nuxt-link to="/sport" title="Sport">Sportovec</nuxt-link> / 
           <nuxt-link to="/politika" title="Politika">Politik</nuxt-link>
@@ -20,6 +20,7 @@
 </template>
 
 <style>
+
   #profile {
       margin: 4rem auto 0;
       width: 50%;

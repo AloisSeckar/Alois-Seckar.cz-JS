@@ -1,7 +1,7 @@
 <template>
     <div id="content">
         <page-header title="Sport" />
-        <p>Vzorem sportovce jsem nikdy úplně nebyl, ale po letech tápání (taekwon-do, florbal, veslování) jsem se v&nbsp;několika sportech nakonec našel.</p>
+        <p>Vzorem sportovce jsem nikdy úplně nebyl, ale po letech tápání jsem se v&nbsp;několika z&nbsp;nich nakonec našel.</p>
         <h2>Běhání</h2>
         <p>S&nbsp;pravidelným běháním jsem začal na jaře 2013. Zhubnul jsem, zesílil a&nbsp;hlavně si našel skutečnou zálibu. Už to není nepříjemná povinnost, ale zábava, která chybí, pokud z&nbsp;nějakého důvodu delší dobu běhat nemůžu. V&nbsp;současnosti běžně uběhnu kolem 100-120&nbsp;km za měsíc. Když si dobře vyberu závod, tak se občas i&nbsp;umístím někde v&nbsp;popředí.</p>
         <p>Na první maraton jsem si troufl v&nbsp;květnu 2017, zatím jsem jich dokončil šest. Můj nejtěžší dosavadní závod byl Sky Race Černá Hora - 30&nbsp;km a&nbsp;2&nbsp;km převýšení v&nbsp;Krkonkoších. A&nbsp;můj největší běžecký zážitek byl štafetový půlmaraton v&nbsp;týmu s&nbsp;olympionikem Davidem Svobodou.</p>

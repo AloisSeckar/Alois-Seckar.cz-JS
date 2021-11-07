@@ -10,6 +10,7 @@ h1 {
     font-family: 'Courier New', monospace;
     font-size: 3rem;
     font-weight: normal;
+    border-bottom: 4px double #FFCC00;
 }
 
 h2 {
@@ -17,6 +18,7 @@ h2 {
     font-family: 'Courier New', monospace;
     font-size: 2rem;
     font-weight: normal;
+    border-bottom: 2px solid #FFCC00;
 }
 
 p {
@@ -29,12 +31,18 @@ img.activities {
 }
 img.logo {
     border-radius: 50%;
+    border: 2px solid #FFCC00;
     width: 120px;
     height: 120px;
 }
 img.photo {
+    border: 2px solid #FFCC00;
     width: 400px;
     height: auto;
+}
+
+.borderless {
+    border: none !important;
 }
 
 @media only screen and (max-width: 420px) {
