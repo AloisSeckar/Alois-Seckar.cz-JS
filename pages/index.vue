@@ -35,20 +35,20 @@
   img.contact {
     width: 2rem;
     border-radius: 50%;
-    border: 1px solid white;
+    border: 1px solid var(--color-secondary);
     margin: 0.4rem;
     padding: 0.4rem;
   }
 
   #name {
-    color: white;
+    color: var(--color-secondary);
     font-family: kaushanScript;
     font-size: 4rem;
     font-weight: normal;
     transform: rotate(-5deg);
   }
   #desc {
-    color: white;
+    color: var(--color-secondary);
     font-family: 'Courier New', monospace;
     font-size: 1.5rem;
     font-weight: normal;
